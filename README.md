@@ -1,7 +1,7 @@
 # ⭐️ Example H4ck3rs S1t3
 
-![](https://img.shields.io/badge/html-5-orange)
-![](https://img.shields.io/badge/css-3-blue)
+![](https://img.shields.io/badge/html-orange)
+![](https://img.shields.io/badge/css-blue)
 
 ##  📁 Installing the repository 
 
@@ -12,7 +12,7 @@ git clone https://github.com/mython-dev/Parfolia-for-hackers-site &&
 sudo mv index.html /var/www/html
 ```
 
-втор: 👨‍💻 myth-dev
+Автор: 👨‍💻 myth-dev
 ### 🌐 Социальные сети:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/myth_dev)
